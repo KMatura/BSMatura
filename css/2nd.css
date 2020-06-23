@@ -16,5 +16,17 @@ html,body{
 	border-radius: 55px;
 	overflow: hidden;
 	margin: auto;
-	margin-top: 24rem;
+	margin-top: 4rem;
+}
+.card{
+	font-size: 20px;
+	width: 42rem;
+	background-color:#260808;
+	border-radius: 55px;
+	margin-top: 8rem;
+
+}
+.impressum{
+	margin-top: 5rem;
+	color: white;
 }

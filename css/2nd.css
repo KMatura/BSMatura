@@ -1,0 +1,20 @@
+html,body{
+	font-family: Roboto;
+	font-weight: 300;
+	background-color: #56021F;
+}
+.nav-item{
+	font-family: Roboto;
+	font-size: 20px;
+	background-color:#260808;
+}
+.active{
+	background-color: #3C0808;
+}
+.carousel{
+	width: 55rem;
+	border-radius: 55px;
+	overflow: hidden;
+	margin: auto;
+	margin-top: 24rem;
+}

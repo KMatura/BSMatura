@@ -24,7 +24,9 @@ html,body{
 	background-color:#260808;
 	border-radius: 55px;
 	margin-top: 8rem;
-
+}
+.card-imp{
+	width: 15rem;
 }
 .impressum{
 	margin-top: 5rem;
